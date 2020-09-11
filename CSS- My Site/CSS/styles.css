@@ -1,0 +1,83 @@
+.top-container{
+padding-top: 100px;
+background-color: white}
+body{margin: 0;
+text-align: center;}
+h1{margin-top: 50px;
+margin-bottom: 0px;
+font-size: 100px;
+font-family: 'Sacramento', cursive;
+color: #66BFBF;}
+p{margin-bottom: 0px;
+font-family: 'Fira Sans', sans-serif;}
+.mid-container{width: 200px;
+height: 200px;
+background-color: red;
+display: block;
+position: relative;
+left: 20px;
+bottom:20px;}
+.bottom-container{width: 200px;
+height: 200px;
+background-color: blue;}
+.top-cloud{position: relative;
+left: 200px;}
+.bottom-cloud{position: absolute;}
+.vardhan{border-radius: 50%;
+margin-top: 200px;
+width: 250px;
+height: 250px;}
+.web{height: 250px;
+width: 250px;}
+.cricket{width: 250px;
+height: 250px;}
+.subtitle{font-size: 2.5rem;
+color: #66BFBF;
+font-weight: normal;}
+p{color: #11999E;
+line-height: 2;}
+h2{color: #66BFBF;}
+h3{color: #66BFBF;}
+a{color: #66BFBF;}
+.skill-row{width: 50%;
+margin-top: 100px;
+margin-bottom: 100px;
+margin-left: auto;
+margin-right: auto;}
+.skills{text-align: left;}
+.skill-row{text-align: left;
+line-height: 2;}
+.my-skill{text-align: center;
+font-size: 50px;}
+.web{width: 25%;
+float: left;
+margin-right: 30px;}
+.cricket{width: 25%;
+float: right;
+margin-left: 30px;}
+.get{font-size: 50px;}
+.get-in{color: black;}
+.profile{background-color: white;}
+.skills{background-color: white;}
+.skll-row{background-color: white;}
+.contact-me{background-color: white;}
+br{background-color: white;}
+body{background-color: white;}
+.top-container{background-color: #F0F8FF}
+.bottom-container{margin-top: 30px;}
+.insta{display: inline-flex;
+margin-right: 200px}
+
+.yt{display: inline-flex;
+text-align: center;}
+.last-container{background-color: #0000FF}
+hr {
+  border:none;
+  border-top:10px dotted grey;
+  color:#fff;
+  background-color:#fff;
+  height:1px;
+  width:5%;
+}
+.my-name{padding-bottom: 50px}
+.skill-row{padding-bottom: 50px}
